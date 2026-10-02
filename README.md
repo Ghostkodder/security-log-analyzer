@@ -47,7 +47,7 @@ This does not automatically prove that an attack occurred. Legitimate users can 
 
 Clone the repository:
 
-    git clone <repository-url>
+    git clone https://github.com/Ghostkodder/security-log-analyzer.git
 
 Enter the project directory:
 
